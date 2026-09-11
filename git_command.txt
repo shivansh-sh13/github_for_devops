@@ -47,4 +47,7 @@
   23 git status                                      
   24 git commit -m"messages"                         
   25 git remote -v                                   
-  26 git push origin master       
+  26 git push origin master  
+
+
+Now, I have to chnage this file in my computer
