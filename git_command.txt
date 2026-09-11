@@ -1,0 +1,50 @@
+ Id CommandLine                                                     
+  -- -----------                                                     
+   1. git init
+   2 git status                                                      
+   3 git status                                                      
+   4 git add Devops.txt                                              
+   5 git status                                                      
+   6 git rm --cached                                                 
+   7 git rm --chached Devops.txt                                     
+   8 git status                                                      
+   9 clear                                                           
+  10 git status                                                      
+  11 git rm --cached Devops.txt                                      
+  12 git status                                                      
+  13 git add .                                                       
+  14 git status                                                      
+  15 git commit -m"This file is going to be tracked"                 
+  16 git status                                                      
+  17 clear                                                           
+  18 git status                                                      
+  19 git commit -m "This file is going to be tracked"                
+
+
+2nd day :
+
+2 git status                                      
+   3 git remote -v                                   
+   4 git add .                                       
+   5 git status                                      
+   6 git commit -m"Ii have done some cjanges in this"
+   7 git push origin master                          
+   8 clear                                           
+   9 git remote -v                                   
+  10 git remote set-url origin https://ghp_3wE0I5s...
+  11 git remote -v                                   
+  12 git status                                      
+  13 git add.                                        
+  14 git add .                                       
+  15 clear                                           
+  16 git push origin master                          
+  17 git add .                                       
+  18 git status                                      
+  19 clear                                           
+  20 git add .                                       
+  21 git status                                      
+  22 git add resume.txt                              
+  23 git status                                      
+  24 git commit -m"messages"                         
+  25 git remote -v                                   
+  26 git push origin master       
