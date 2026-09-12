@@ -55,7 +55,7 @@ Now, I have to chnage this file in my computer
 
 
 Day -3 Command 
-1 try { . "c:\Users\USER\AppData\Local\Programs\Microsoft VS Code\645f...
+
    2 node --version                                                         
    3 npm --version                                                          
    4 nodemon script.js                                                      
