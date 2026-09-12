@@ -51,3 +51,27 @@
 
 
 Now, I have to chnage this file in my computer
+
+
+
+Day -3 Command 
+1 try { . "c:\Users\USER\AppData\Local\Programs\Microsoft VS Code\645f...
+   2 node --version                                                         
+   3 npm --version                                                          
+   4 nodemon script.js                                                      
+   5 clear                                                                  
+   6 nodemon demo.js                                                        
+   7 clear                                                                  
+   8 clear                                                                  
+   9 npm install -g nodemon@latest                                          
+  10 clear                                                                  
+  11 nodemon demo.js                                                        
+  12 git status                                                             
+  13 git add .                                                              
+  14 git status                                                             
+  15 git add demo.js                                                        
+  16 git status                                                             
+  17 git commit -m"messages"                                                
+  18 git push origin master                                                 
+  19 clear                                                                  
+
